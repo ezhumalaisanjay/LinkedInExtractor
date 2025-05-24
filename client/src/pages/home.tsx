@@ -32,7 +32,9 @@ export default function Home() {
   // Analysis mutation
   const analysisMutation = useMutation({
     mutationFn: async (url: string): Promise<AnalysisResponse> => {
-      const response = await apiRequest('POST', '/api/analyze', { url });
+      // Use Netlify function endpoint in production
+      const endpoint = import.meta.env.PROD ? '/.netlify/functions/analyze' : '/api/analyze';
+      const response = await apiRequest('POST', endpoint, { url });
       return response.json();
     },
     onSuccess: (data) => {
