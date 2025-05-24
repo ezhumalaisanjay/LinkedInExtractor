@@ -1,5 +1,17 @@
 const cheerio = require("cheerio");
 
+// Initialize Gemini AI
+async function getGeminiAPI() {
+  try {
+    const { GoogleGenerativeAI } = await import("@google/generative-ai");
+    const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
+    return genAI.getGenerativeModel({ model: "gemini-pro" });
+  } catch (error) {
+    console.error("Gemini initialization error:", error);
+    return null;
+  }
+}
+
 exports.handler = async (event, context) => {
   // Handle CORS
   const headers = {
@@ -108,7 +120,7 @@ async function extractWebsiteData(baseUrl) {
       meta_description: metaDesc,
       main_headings: [...h1Elements, ...h2Elements].slice(0, 10),
       hero_text: heroText,
-      summary: `Website analysis: ${title}. ${metaDesc}`,
+      summary: await generateAISummary(homeContent, "homepage", title),
       keywords: extractKeywords(homeContent)
     };
 
@@ -146,6 +158,56 @@ async function extractWebsiteData(baseUrl) {
   }
 
   return websiteData;
+}
+
+async function generateAISummary(content, context, title = "") {
+  try {
+    if (!process.env.GEMINI_API_KEY) {
+      return `AI summary not available - API key required. This appears to be a ${context} with relevant business information.`;
+    }
+
+    const model = await getGeminiAPI();
+    if (!model) {
+      return `AI service temporarily unavailable. This ${context} contains business information about ${title}.`;
+    }
+
+    let prompt;
+    if (context === "homepage") {
+      prompt = `Analyze this company homepage content and create a professional 2-3 sentence summary focusing on:
+      - What the company does
+      - Key services or products
+      - Target market or unique value proposition
+      
+      Content: "${content.slice(0, 1500)}"
+      
+      Provide a clear, concise business summary:`;
+    } else if (context === "about") {
+      prompt = `Analyze this company's About page and summarize in 2-3 sentences:
+      - Company mission and values
+      - History or founding story
+      - Key differentiators
+      
+      Content: "${content.slice(0, 1500)}"
+      
+      Provide a professional summary:`;
+    } else {
+      prompt = `Summarize this ${context} page content in 2-3 sentences, focusing on key business information:
+      
+      Content: "${content.slice(0, 1500)}"
+      
+      Summary:`;
+    }
+
+    const result = await model.generateContent(prompt);
+    const response = await result.response;
+    const summary = response.text().trim();
+    
+    return summary || `This ${context} contains business information about ${title}.`;
+    
+  } catch (error) {
+    console.error("AI summary error:", error);
+    return `This ${context} contains business information about ${title}.`;
+  }
 }
 
 function extractKeywords(content) {
