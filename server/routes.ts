@@ -3,7 +3,8 @@ import { createServer, type Server } from "http";
 import { storage } from "./storage";
 import { insertAnalysisResultSchema, websiteDataSchema, linkedinDataSchema } from "@shared/schema";
 import { z } from "zod";
-import puppeteer from "puppeteer";
+import fetch from "node-fetch";
+import * as cheerio from "cheerio";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 const urlInputSchema = z.object({
@@ -70,31 +71,11 @@ export async function registerRoutes(app: Express): Promise<Server> {
 }
 
 async function analyzeWebsite(url: string, analysisId: number) {
-  let browser;
-  
   try {
-    // Launch browser with additional flags for containerized environments
-    browser = await puppeteer.launch({
-      headless: true,
-      args: [
-        '--no-sandbox',
-        '--disable-setuid-sandbox',
-        '--disable-dev-shm-usage',
-        '--disable-accelerated-2d-canvas',
-        '--no-first-run',
-        '--no-zygote',
-        '--single-process',
-        '--disable-gpu'
-      ]
-    });
-
-    const page = await browser.newPage();
-    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
+    // Extract website data using fetch and cheerio
+    const websiteData = await extractWebsiteData(url);
     
-    // Extract website data
-    const websiteData = await extractWebsiteData(page, url);
-    
-    // Extract LinkedIn data (mock for now)
+    // Extract LinkedIn data (basic for now)
     const linkedinData = await extractLinkedInData(websiteData?.social_media?.linkedin_url);
     
     // Update analysis result
@@ -110,63 +91,59 @@ async function analyzeWebsite(url: string, analysisId: number) {
       status: "failed",
       error_message: error instanceof Error ? error.message : "Analysis failed",
     });
-  } finally {
-    if (browser) {
-      await browser.close();
-    }
   }
 }
 
-async function extractWebsiteData(page: any, baseUrl: string) {
+async function extractWebsiteData(baseUrl: string) {
   const websiteData: any = {};
 
   try {
-    // Extract homepage data
-    await page.goto(baseUrl, { waitUntil: 'networkidle2', timeout: 30000 });
-    
-    const homeData = await page.evaluate(() => {
-      const title = document.title || '';
-      const metaDesc = document.querySelector('meta[name="description"]')?.getAttribute('content') || '';
-      const h1Elements = Array.from(document.querySelectorAll('h1')).map(el => el.textContent?.trim()).filter(Boolean);
-      const h2Elements = Array.from(document.querySelectorAll('h2')).map(el => el.textContent?.trim()).filter(Boolean);
-      const heroText = document.querySelector('hero, .hero, .banner, .jumbotron')?.textContent?.trim() || '';
-      
-      return {
-        page_title: title,
-        meta_description: metaDesc,
-        main_headings: [...h1Elements, ...h2Elements].slice(0, 10),
-        hero_text: heroText.slice(0, 500),
-      };
+    // Fetch homepage
+    const response = await fetch(baseUrl, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+      }
     });
 
-    // Generate AI summary for homepage
-    const homeContent = await page.evaluate(() => {
-      return document.body.textContent?.slice(0, 2000) || '';
-    });
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+    }
+
+    const html = await response.text();
+    const $ = cheerio.load(html);
     
-    homeData.summary = await generateAISummary(homeContent, "homepage");
-    homeData.keywords = await extractKeywords(homeContent);
+    // Extract homepage data
+    const title = $('title').text().trim() || '';
+    const metaDesc = $('meta[name="description"]').attr('content') || '';
+    const h1Elements = $('h1').map((_, el) => $(el).text().trim()).get().filter(Boolean);
+    const h2Elements = $('h2').map((_, el) => $(el).text().trim()).get().filter(Boolean);
+    const heroText = $('.hero, .banner, .jumbotron, [class*="hero"], [class*="banner"]').first().text().trim().slice(0, 500) || '';
+    
+    const homeContent = $('body').text().slice(0, 2000);
+    
+    const homeData = {
+      page_title: title,
+      meta_description: metaDesc,
+      main_headings: [...h1Elements, ...h2Elements].slice(0, 10),
+      hero_text: heroText,
+      summary: await generateAISummary(homeContent, "homepage"),
+      keywords: await extractKeywords(homeContent)
+    };
     
     websiteData.home = homeData;
 
     // Extract social media links
-    const socialMedia = await page.evaluate(() => {
-      const links = Array.from(document.querySelectorAll('a[href]'));
-      const socialLinks: any = {};
-      
-      links.forEach(link => {
-        const href = link.getAttribute('href') || '';
-        if (href.includes('linkedin.com')) socialLinks.linkedin_url = href;
-        if (href.includes('twitter.com') || href.includes('x.com')) socialLinks.twitter_url = href;
-        if (href.includes('facebook.com')) socialLinks.facebook_url = href;
-        if (href.includes('youtube.com')) socialLinks.youtube_url = href;
-        if (href.includes('instagram.com')) socialLinks.instagram_url = href;
-      });
-      
-      return socialLinks;
+    const socialLinks: any = {};
+    $('a[href]').each((_, el) => {
+      const href = $(el).attr('href') || '';
+      if (href.includes('linkedin.com')) socialLinks.linkedin_url = href;
+      if (href.includes('twitter.com') || href.includes('x.com')) socialLinks.twitter_url = href;
+      if (href.includes('facebook.com')) socialLinks.facebook_url = href;
+      if (href.includes('youtube.com')) socialLinks.youtube_url = href;
+      if (href.includes('instagram.com')) socialLinks.instagram_url = href;
     });
     
-    websiteData.social_media = socialMedia;
+    websiteData.social_media = socialLinks;
 
     // Try to extract other pages
     const commonPaths = ['/about', '/about-us', '/services', '/products', '/contact'];
@@ -174,19 +151,27 @@ async function extractWebsiteData(page: any, baseUrl: string) {
     for (const path of commonPaths) {
       try {
         const fullUrl = new URL(path, baseUrl).toString();
-        await page.goto(fullUrl, { waitUntil: 'networkidle2', timeout: 15000 });
+        const pageResponse = await fetch(fullUrl, {
+          headers: {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+          }
+        });
         
-        const content = await page.evaluate(() => document.body.textContent?.slice(0, 2000) || '');
-        
-        if (content.length > 100) { // Only process if substantial content found
-          if (path.includes('about')) {
-            websiteData.about = await extractAboutData(page, content);
-          } else if (path.includes('services')) {
-            websiteData.services = await extractServicesData(page, content);
-          } else if (path.includes('products')) {
-            websiteData.products = await extractProductsData(page, content);
-          } else if (path.includes('contact')) {
-            websiteData.contact = await extractContactData(page);
+        if (pageResponse.ok) {
+          const pageHtml = await pageResponse.text();
+          const page$ = cheerio.load(pageHtml);
+          const content = page$('body').text().slice(0, 2000);
+          
+          if (content.length > 100) { // Only process if substantial content found
+            if (path.includes('about')) {
+              websiteData.about = await extractAboutData(page$, content);
+            } else if (path.includes('services')) {
+              websiteData.services = await extractServicesData(page$, content);
+            } else if (path.includes('products')) {
+              websiteData.products = await extractProductsData(page$, content);
+            } else if (path.includes('contact')) {
+              websiteData.contact = await extractContactData(page$);
+            }
           }
         }
       } catch (error) {
@@ -202,85 +187,78 @@ async function extractWebsiteData(page: any, baseUrl: string) {
   return websiteData;
 }
 
-async function extractAboutData(page: any, content: string) {
-  const aboutData = await page.evaluate(() => {
-    const headings = Array.from(document.querySelectorAll('h1, h2, h3')).map(el => el.textContent?.trim()).filter(Boolean);
-    const companyName = headings.find(h => h.length < 50) || '';
-    
-    // Look for founding year
-    const yearMatch = document.body.textContent?.match(/(?:founded|established|since)\s*(\d{4})/i);
-    const foundingYear = yearMatch ? yearMatch[1] : '';
-    
-    return {
-      company_name: companyName,
-      founding_year: foundingYear,
-    };
-  });
-
-  aboutData.about_summary = await generateAISummary(content, "about page");
-  aboutData.mission_statement = await extractMissionStatement(content);
-  aboutData.leadership_team = await extractLeadershipTeam(content);
+async function extractAboutData($: cheerio.CheerioAPI, content: string) {
+  const headings = $('h1, h2, h3').map((_, el) => $(el).text().trim()).get().filter(Boolean);
+  const companyName = headings.find(h => h.length < 50) || '';
+  
+  // Look for founding year
+  const yearMatch = content.match(/(?:founded|established|since)\s*(\d{4})/i);
+  const foundingYear = yearMatch ? yearMatch[1] : '';
+  
+  const aboutData = {
+    company_name: companyName,
+    founding_year: foundingYear,
+    about_summary: await generateAISummary(content, "about page"),
+    mission_statement: await extractMissionStatement(content),
+    leadership_team: await extractLeadershipTeam(content)
+  };
 
   return aboutData;
 }
 
-async function extractServicesData(page: any, content: string) {
-  const servicesData = await page.evaluate(() => {
-    const serviceElements = Array.from(document.querySelectorAll('h3, h4, .service, .service-item')).slice(0, 10);
-    const services = serviceElements.map(el => {
-      const title = el.textContent?.trim() || '';
-      const description = el.nextElementSibling?.textContent?.trim().slice(0, 200) || '';
-      return { title, description };
-    }).filter(s => s.title.length > 0);
+async function extractServicesData($: cheerio.CheerioAPI, content: string) {
+  const serviceElements = $('h3, h4, .service, .service-item').slice(0, 10);
+  const services = serviceElements.map((_, el) => {
+    const title = $(el).text().trim() || '';
+    const description = $(el).next().text().trim().slice(0, 200) || '';
+    return { title, description };
+  }).get().filter(s => s.title.length > 0);
 
-    return { services_list: services };
-  });
-
-  servicesData.services_summary = await generateAISummary(content, "services page");
-  servicesData.industries_served = await extractIndustries(content);
+  const servicesData = {
+    services_list: services,
+    services_summary: await generateAISummary(content, "services page"),
+    industries_served: await extractIndustries(content)
+  };
 
   return servicesData;
 }
 
-async function extractProductsData(page: any, content: string) {
-  const productsData = await page.evaluate(() => {
-    const productElements = Array.from(document.querySelectorAll('h3, h4, .product, .product-item')).slice(0, 10);
-    const products = productElements.map(el => {
-      const title = el.textContent?.trim() || '';
-      const description = el.nextElementSibling?.textContent?.trim().slice(0, 200) || '';
-      return { title, description };
-    }).filter(p => p.title.length > 0);
+async function extractProductsData($: cheerio.CheerioAPI, content: string) {
+  const productElements = $('h3, h4, .product, .product-item').slice(0, 10);
+  const products = productElements.map((_, el) => {
+    const title = $(el).text().trim() || '';
+    const description = $(el).next().text().trim().slice(0, 200) || '';
+    return { title, description };
+  }).get().filter(p => p.title.length > 0);
 
-    return { products_list: products };
-  });
-
-  productsData.products_summary = await generateAISummary(content, "products page");
+  const productsData = {
+    products_list: products,
+    products_summary: await generateAISummary(content, "products page")
+  };
   
   return productsData;
 }
 
-async function extractContactData(page: any) {
-  return await page.evaluate(() => {
-    const text = document.body.textContent || '';
-    
-    // Extract emails
-    const emailRegex = /[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/g;
-    const emails = Array.from(new Set(text.match(emailRegex) || []));
-    
-    // Extract phone numbers
-    const phoneRegex = /(?:\+?1[-.\s]?)?\(?[0-9]{3}\)?[-.\s]?[0-9]{3}[-.\s]?[0-9]{4}/g;
-    const phones = Array.from(new Set(text.match(phoneRegex) || []));
-    
-    // Extract addresses (basic)
-    const addressRegex = /\d+\s+[A-Za-z\s]+(?:Street|St|Avenue|Ave|Road|Rd|Drive|Dr|Lane|Ln|Boulevard|Blvd)[^,.]*,\s*[A-Za-z\s]+/g;
-    const addresses = Array.from(new Set(text.match(addressRegex) || []));
+async function extractContactData($: cheerio.CheerioAPI) {
+  const text = $('body').text() || '';
+  
+  // Extract emails
+  const emailRegex = /[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/g;
+  const emails = Array.from(new Set(text.match(emailRegex) || []));
+  
+  // Extract phone numbers
+  const phoneRegex = /(?:\+?1[-.\s]?)?\(?[0-9]{3}\)?[-.\s]?[0-9]{3}[-.\s]?[0-9]{4}/g;
+  const phones = Array.from(new Set(text.match(phoneRegex) || []));
+  
+  // Extract addresses (basic)
+  const addressRegex = /\d+\s+[A-Za-z\s]+(?:Street|St|Avenue|Ave|Road|Rd|Drive|Dr|Lane|Ln|Boulevard|Blvd)[^,.]*,\s*[A-Za-z\s]+/g;
+  const addresses = Array.from(new Set(text.match(addressRegex) || []));
 
-    return {
-      email_addresses: emails.slice(0, 5),
-      phone_numbers: phones.slice(0, 3),
-      office_locations: addresses.slice(0, 3),
-    };
-  });
+  return {
+    email_addresses: emails.slice(0, 5),
+    phone_numbers: phones.slice(0, 3),
+    office_locations: addresses.slice(0, 3),
+  };
 }
 
 async function extractLinkedInData(linkedinUrl?: string) {
