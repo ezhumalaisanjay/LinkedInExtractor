@@ -23,7 +23,7 @@ import {
   Award,
   Megaphone
 } from "lucide-react";
-import { SiLinkedin, SiTwitter, SiFacebook, SiYoutube, SiInstagram } from "react-icons/si";
+import { SiLinkedin, SiX, SiFacebook, SiYoutube, SiInstagram } from "react-icons/si";
 import type { AnalysisResult } from "@shared/schema";
 import type { SectionState } from "@/lib/types";
 
@@ -428,7 +428,7 @@ export default function AnalysisResults({ data, activeTab, onTabChange }: Analys
                   {websiteData.social_media.twitter_url && (
                     <a href={websiteData.social_media.twitter_url} target="_blank" rel="noopener noreferrer"
                        className="flex items-center space-x-2 p-3 bg-sky-50 hover:bg-sky-100 rounded-lg transition-colors">
-                      <SiTwitter className="text-sky-600" />
+                      <SiX className="text-sky-600" />
                       <span className="text-sm font-medium text-sky-900">Twitter</span>
                     </a>
                   )}
