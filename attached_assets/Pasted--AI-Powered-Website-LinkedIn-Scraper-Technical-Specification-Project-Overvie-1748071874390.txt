@@ -1,0 +1,201 @@
+# 📄 AI-Powered Website & LinkedIn Scraper – Technical Specification
+
+---
+
+## 🔍 Project Overview
+
+Build a full-stack web application that takes a website URL as input, scrapes both the website and its associated LinkedIn page, and uses **Gemini AI** to summarize content section-wise. The frontend is built in **React**, hosted on **Netlify**, with backend scraping logic and AI summarization managed via APIs.
+
+---
+
+## 🎯 Objectives
+
+* Scrape homepage and internal pages of the provided website.
+* Identify and extract structured information from key sections.
+* Detect LinkedIn company profile and extract details from Home and About.
+* Use **AI summarization** to provide human-readable insights.
+* Present data in a clear **two-tab layout**: Website and LinkedIn.
+
+---
+
+## 🧱 Tech Stack
+
+| Layer         | Technology                                                |
+| ------------- | --------------------------------------------------------- |
+| Frontend      | React, TailwindCSS, ShadCN UI                             |
+| Backend       | Node.js, Python (FastAPI or Flask)                        |
+| AI Engine     | Google Gemini API                                         |
+| Hosting       | Netlify (Frontend), Render/Fly.io (Backend or Serverless) |
+| Scraping Tool | Puppeteer / Playwright / BeautifulSoup                    |
+| Deployment    | GitHub → Netlify CI/CD                                    |
+
+---
+
+## 🛠️ Functional Workflow
+
+1. **User Input**
+   User submits a website URL.
+
+2. **Website Scraping**
+
+   * Homepage scraped for metadata and internal links.
+   * Pages like `/about`, `/services`, `/products`, `/contact`, etc. are auto-detected and scraped.
+
+3. **LinkedIn Scraping**
+
+   * LinkedIn URL is detected from the footer or social media section.
+   * LinkedIn Home and About sections are scraped.
+
+4. **AI Summarization (Gemini AI)**
+
+   * Content from each section is summarized into concise descriptions.
+
+5. **UI Output**
+
+   * Two tabs: Website Summary and LinkedIn Summary
+   * Each section is shown in its own fieldset/card.
+
+---
+
+## 🗂️ Field Mapping by Section
+
+### 🌐 Website Section
+
+#### Web Home
+
+| Field              | Description                    |
+| ------------------ | ------------------------------ |
+| `page_title`       | Homepage title                 |
+| `meta_description` | Meta description               |
+| `summary`          | AI summary of homepage         |
+| `main_headings`    | H1/H2 extracted headings       |
+| `keywords`         | Relevant keywords or topics    |
+| `hero_text`        | Banner or hero section content |
+
+#### Web About
+
+| Field               | Description                       |
+| ------------------- | --------------------------------- |
+| `company_name`      | Extracted company name            |
+| `mission_statement` | Mission or vision text            |
+| `about_summary`     | AI summary of About section       |
+| `founding_year`     | Detected year of establishment    |
+| `leadership_team`   | Key people and roles (if present) |
+
+#### Web Services
+
+| Field               | Description                           |
+| ------------------- | ------------------------------------- |
+| `services_list`     | List of service titles & descriptions |
+| `services_summary`  | AI summary of services                |
+| `industries_served` | Detected industries                   |
+
+#### Web Products
+
+| Field                | Description                     |
+| -------------------- | ------------------------------- |
+| `products_list`      | Product titles and summaries    |
+| `product_categories` | Grouped categories              |
+| `products_summary`   | AI summary of product offerings |
+
+#### Web Contact
+
+| Field              | Description                  |
+| ------------------ | ---------------------------- |
+| `email_addresses`  | All detected email addresses |
+| `phone_numbers`    | All detected phone numbers   |
+| `office_locations` | Addresses of offices         |
+| `contact_form_url` | URL of the contact form      |
+| `support_info`     | Helpdesk or support details  |
+
+#### Web Social Media
+
+| Field           | Description            |
+| --------------- | ---------------------- |
+| `linkedin_url`  | LinkedIn profile link  |
+| `twitter_url`   | Twitter/X profile link |
+| `facebook_url`  | Facebook profile       |
+| `youtube_url`   | YouTube/media channel  |
+| `instagram_url` | Instagram profile      |
+
+---
+
+### 🔗 LinkedIn Section
+
+#### LinkedIn Home
+
+| Field             | Description                    |
+| ----------------- | ------------------------------ |
+| `linkedin_name`   | LinkedIn company name          |
+| `tagline`         | Tagline or brief header        |
+| `follower_count`  | Number of followers            |
+| `employee_count`  | Employee count (LinkedIn data) |
+| `cover_image_url` | Cover/banner image             |
+
+#### LinkedIn About
+
+| Field          | Description                   |
+| -------------- | ----------------------------- |
+| `description`  | Full About text               |
+| `specialties`  | List of specialties           |
+| `industry`     | Industry category             |
+| `company_size` | Size (e.g., 51–200 employees) |
+| `headquarters` | Headquarters location         |
+| `website`      | Website from LinkedIn         |
+| `founded_year` | Year founded                  |
+| `type`         | Public/Private/Non-profit     |
+
+---
+
+## 💻 Output Data Format (JSON)
+
+```json
+{
+  "website": {
+    "home": { ... },
+    "about": { ... },
+    "services": { ... },
+    "products": { ... },
+    "contact": { ... },
+    "social_media": { ... }
+  },
+  "linkedin": {
+    "home": { ... },
+    "about": { ... }
+  }
+}
+```
+
+---
+
+## 🎨 UI Layout (React)
+
+* **Two main tabs**:
+
+  * 🌐 **Website Summary**
+  * 🔗 **LinkedIn Summary**
+
+* Each tab contains collapsible cards or fieldsets per section:
+
+  * Web Home
+  * Web About
+  * Web Services
+  * Web Products
+  * Web Contact
+  * Web Social Media
+  * LinkedIn Home
+  * LinkedIn About
+
+---
+
+## ✅ Notes
+
+* Must respect `robots.txt` and terms of service of LinkedIn and other domains.
+* Use Puppeteer/Playwright for JS-rendered pages.
+* Use rotating proxies or headless detection evasion techniques as needed.
+* All content is summarized to avoid displaying raw HTML.
+* Caching and rate limiting should be implemented for performance and compliance.
+
+---
+
+> to host on netlify
