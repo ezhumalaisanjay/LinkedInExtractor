@@ -14,21 +14,6 @@ export default function Home() {
     analysisData: null,
     error: null,
   });
-  const [currentAnalysisId, setCurrentAnalysisId] = useState<number | null>(null);
-
-  // Poll for analysis result
-  const { data: analysisResult, isLoading: isPolling } = useQuery({
-    queryKey: ['/api/analysis', currentAnalysisId],
-    enabled: !!currentAnalysisId && analysisState.isAnalyzing,
-    refetchInterval: (data) => {
-      // Stop polling if analysis is complete or failed
-      if (data?.status === 'completed' || data?.status === 'failed') {
-        return false;
-      }
-      return 2000; // Poll every 2 seconds
-    },
-  });
-
   // Analysis mutation
   const analysisMutation = useMutation({
     mutationFn: async (url: string): Promise<AnalysisResponse> => {
@@ -38,10 +23,11 @@ export default function Home() {
       return response.json();
     },
     onSuccess: (data) => {
-      setCurrentAnalysisId(data.id);
+      // Serverless function returns complete results immediately
       setAnalysisState(prev => ({
         ...prev,
-        isAnalyzing: true,
+        isAnalyzing: false,
+        analysisData: data,
         error: null,
       }));
     },
@@ -54,33 +40,14 @@ export default function Home() {
     },
   });
 
-  // Update analysis state when result changes
-  useEffect(() => {
-    if (analysisResult) {
-      if (analysisResult.status === 'completed') {
-        setAnalysisState(prev => ({
-          ...prev,
-          isAnalyzing: false,
-          analysisData: analysisResult,
-          error: null,
-        }));
-      } else if (analysisResult.status === 'failed') {
-        setAnalysisState(prev => ({
-          ...prev,
-          isAnalyzing: false,
-          error: analysisResult.error_message || 'Analysis failed',
-        }));
-      }
-    }
-  }, [analysisResult]);
-
   const handleAnalyze = (url: string) => {
+    setAnalysisState(prev => ({ ...prev, isAnalyzing: true, error: null }));
     analysisMutation.mutate(url);
   };
 
   const handleRetry = () => {
-    if (analysisResult?.url) {
-      handleAnalyze(analysisResult.url);
+    if (analysisState.analysisData?.url) {
+      handleAnalyze(analysisState.analysisData.url);
     }
   };
 

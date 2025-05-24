@@ -1,0 +1,4792 @@
+Failed to load resource: the server responded with a status of 404 ()Understand this error
+analysis:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 ()Understand this error
+analysis:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 ()Understand this error
+analysis:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 ()Understand this error
+analysis:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 ()Understand this error
+analysis:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 ()Understand this error
+analysis:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 ()Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
+(anonymous) @ index-Dexu5h7W.js:48
+o @ index-Dexu5h7W.js:48
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+setInterval
+$a @ index-Dexu5h7W.js:48
+Ua @ index-Dexu5h7W.js:48
+onQueryUpdate @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+batch @ index-Dexu5h7W.js:48
+zt @ index-Dexu5h7W.js:48
+l @ index-Dexu5h7W.js:48
+h @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48
+Promise.catch
+S @ index-Dexu5h7W.js:48
+start @ index-Dexu5h7W.js:48
+fetch @ index-Dexu5h7W.js:48
+ks @ index-Dexu5h7W.js:48
+(anonymous) @ index-Dexu5h7W.js:48Understand this error
+index-Dexu5h7W.js:48 
+            
+            
+           GET https://main--aesthetic-mooncake-e3fbb9.netlify.app/api/analysis 404 (Not Found)
