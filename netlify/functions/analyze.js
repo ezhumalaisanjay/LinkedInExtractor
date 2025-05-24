@@ -1,4 +1,3 @@
-const fetch = require("node-fetch");
 const cheerio = require("cheerio");
 
 exports.handler = async (event, context) => {
@@ -72,6 +71,7 @@ async function extractWebsiteData(baseUrl) {
   const websiteData = {};
 
   try {
+    // Use global fetch (available in Node.js 18+)
     const response = await fetch(baseUrl, {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
